@@ -1,0 +1,494 @@
+[
+  {
+    "question_id": "Qe8061f541cd0ad073a7c",
+    "occurrence_id": "S0002_17027",
+    "source_id": "S0002",
+    "original_number": "1",
+    "question_text": "列比例式\n\n  【例题】:手表比闹钟每小时快30 秒,而闹钟比石英钟每小\n\n时慢30 秒,8 点钟时将三者都对准8 点,石英钟12 点时,手表\n\n显示的时间是几点几分几秒?",
+    "question_type": "单选",
+    "options": {
+      "A": "12 点",
+      "B": "11 点59 分59 秒",
+      "C": "11 点59 分30 秒",
+      "D": "12 点30 秒"
+    },
+    "correct_answer": "B",
+    "explanation": "该题目的解决方法即为典型的列比例式。通过题\n\n目中的条件寻找出相关的比例关系即可得出答案。\n\n  石英钟走1 小时=3600 秒\n\n   此时闹钟走3600-30=3570 秒\n\n  石英钟走了4 个小时,\n\n    3600 : 3570=3600×4 : 3570×4 闹钟就应该走了\n\n3570*4=14280 秒\n\n  闹钟走1 小时=3600 秒\n\n   此时手表走3600+30=3630\n\n   闹钟走了14280\n\n    3600 : 3630=14280 : X\n\n   手表就应该走了(14280/3600)*3630=14399 秒=3 小时59 分\n\n59 秒\n\n 因此答案应为11 点59 分59 秒",
+    "source_explanation": "该题目的解决方法即为典型的列比例式。通过题\n\n目中的条件寻找出相关的比例关系即可得出答案。\n\n  石英钟走1 小时=3600 秒\n\n   此时闹钟走3600-30=3570 秒\n\n  石英钟走了4 个小时,\n\n    3600 : 3570=3600×4 : 3570×4 闹钟就应该走了\n\n3570*4=14280 秒\n\n  闹钟走1 小时=3600 秒\n\n   此时手表走3600+30=3630\n\n   闹钟走了14280\n\n    3600 : 3630=14280 : X\n\n   手表就应该走了(14280/3600)*3630=14399 秒=3 小时59 分\n\n59 秒\n\n 因此答案应为11 点59 分59 秒",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/2.最新版【行测讲义】数量关系.pdf",
+    "source_location": "page:24",
+    "source_offset": 17027,
+    "answer_source": {
+      "source_id": "S0002",
+      "location": "page:24",
+      "raw_text": "【答案】B"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "  1、列比例式\n\n  【例题】:手表比闹钟每小时快30 秒,而闹钟比石英钟每小\n\n时慢30 秒,8 点钟时将三者都对准8 点,石英钟12 点时,手表\n\n显示的时间是几点几分几秒?\n\n    A.12 点B.11 点59 分59 秒\n\n    C.11 点59 分30 秒D.12 点30 秒\n\n  【答案】B\n\n  【解析】该题目的解决方法即为典型的列比例式。通过题\n\n目中的条件寻找出相关的比例关系即可得出答案。\n\n  石英钟走1 小时=3600 秒\n\n   此时闹钟走3600-30=3570 秒\n\n  石英钟走了4 个小时,\n\n    3600 : 3570=3600×4 : 3570×4 闹钟就应该走了\n\n3570*4=14280 秒\n\n  闹钟走1 小时=3600 秒\n\n   此时手表走3600+30=3630\n\n   闹钟走了14280\n\n    3600 : 3630=14280 : X\n\n   手表就应该走了(14280/3600)*3630=14399 秒=3 小时59 分\n\n59 秒\n\n 因此答案应为11 点59 分59 秒\n\n\n\n \n\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "B"
+    ]
+  },
+  {
+    "question_id": "Qe3b31b4990b8b4f761ee",
+    "occurrence_id": "S0004_2484",
+    "source_id": "S0004",
+    "original_number": "67",
+    "question_text": "美国社会学家默顿将社会功能划分为显功能和潜功能两个层次,显功能是有助于系统的调整和适应的客观后\n\n果,这种适应和调整是系统中的参与者所期望达到或能预料、认识到的。潜功能是没有被预料也没有被认识的客观后\n\n果。\n\n  下列选项不包含对潜功能描述的一项是:( )",
+    "question_type": "单选",
+    "options": {
+      "A": "电视剧《渴望》播放期间,万人空巷,社会治安明显好转",
+      "B": "张某根据自己的家庭收入状况,贷款30 万买了一套房子,由于利率上升,自己的生活变得捉襟见肘",
+      "C": "为抵御外族入侵,秦始皇修筑了长城,客观上促进了我国民间建筑工艺的发展",
+      "D": "来自偏远山区为了摆脱贫困,让父母过上好日子,从小刻苦学习,做事认真,没几年功夫就成为一家大型企业\n\n的负责人,也使自己成为家乡父老教育孩子的榜样"
+    },
+    "correct_answer": "B",
+    "explanation": "答案为B\n\n  题目是要选不是潜功能的事例,我们先看潜功能最大的特点是:自己没有意识到产生效果。我们看选项,只有B\n\n项是自己能预料到的。\n\n  定义判断题目最重要的是要遵循题目定义,而不是没有根据的无限引申。如何把握题目定义,存在一个“度”的\n\n问题,我会在以后的课程中详细的讲解这部分的知识。我们下面看类比推理类的题目。",
+    "source_explanation": "答案为B\n\n  题目是要选不是潜功能的事例,我们先看潜功能最大的特点是:自己没有意识到产生效果。我们看选项,只有B\n\n项是自己能预料到的。\n\n  定义判断题目最重要的是要遵循题目定义,而不是没有根据的无限引申。如何把握题目定义,存在一个“度”的\n\n问题,我会在以后的课程中详细的讲解这部分的知识。我们下面看类比推理类的题目。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/4.最新版【行测讲义】判断推理（共63页）.pdf",
+    "source_location": "page:3",
+    "source_offset": 2484,
+    "answer_source": {
+      "source_id": "S0004",
+      "location": "page:3",
+      "raw_text": "答案为B"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "  67.美国社会学家默顿将社会功能划分为显功能和潜功能两个层次,显功能是有助于系统的调整和适应的客观后\n\n果,这种适应和调整是系统中的参与者所期望达到或能预料、认识到的。潜功能是没有被预料也没有被认识的客观后\n\n果。\n\n  下列选项不包含对潜功能描述的一项是:( )\n\n  A.电视剧《渴望》播放期间,万人空巷,社会治安明显好转\n\n  B.张某根据自己的家庭收入状况,贷款30 万买了一套房子,由于利率上升,自己的生活变得捉襟见肘\n\n  C.为抵御外族入侵,秦始皇修筑了长城,客观上促进了我国民间建筑工艺的发展\n\n  D.来自偏远山区为了摆脱贫困,让父母过上好日子,从小刻苦学习,做事认真,没几年功夫就成为一家大型企业\n\n的负责人,也使自己成为家乡父老教育孩子的榜样\n\n  【解析】答案为B\n\n  题目是要选不是潜功能的事例,我们先看潜功能最大的特点是:自己没有意识到产生效果。我们看选项,只有B\n\n项是自己能预料到的。\n\n  定义判断题目最重要的是要遵循题目定义,而不是没有根据的无限引申。如何把握题目定义,存在一个“度”的\n\n问题,我会在以后的课程中详细的讲解这部分的知识。我们下面看类比推理类的题目。\n\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "B"
+    ]
+  },
+  {
+    "question_id": "Qfb9c2db605a5c71e6765",
+    "occurrence_id": "S0005_69389",
+    "source_id": "S0005",
+    "original_number": "48",
+    "question_text": "该年度我国高等学校用于应用研究部分的“科学研究与试验发展经费支出”约为:",
+    "question_type": "单选",
+    "options": {
+      "A": "95.6 亿元",
+      "B": "137.0 亿元",
+      "C": "196.4 亿元",
+      "D": "1489。5 亿元"
+    },
+    "correct_answer": "B",
+    "explanation": "该年度我国高等学校用于应用研究部分的“科学研究与试验发展经费支出”约为:3.003.1×9.2%\n×49.6%≈137.0 亿元。故选B。",
+    "source_explanation": "该年度我国高等学校用于应用研究部分的“科学研究与试验发展经费支出”约为:3.003.1×9.2%\n×49.6%≈137.0 亿元。故选B。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/5.最新版【行测讲义】资料分析（共58页）.pdf",
+    "source_location": "page:47",
+    "source_offset": 69389,
+    "answer_source": {
+      "source_id": "S0005",
+      "location": "page:48",
+      "original_number": "48",
+      "raw_text": "   48.【解析】该年度我国高等学校用于应用研究部分的“科学研究与试验发展经费支出”约为:3.003.1×9.2%\n×49.6%≈137.0 亿元。故选B。\n"
+    },
+    "confidence": 0.95,
+    "verification_status": "VERIFIED",
+    "verification_method": "unique_id_plus_distinctive_stem_and_selected_option_quotes_and_explicit_conclusion",
+    "answer_match_method": "unique_original_number_same_document",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "  48.该年度我国高等学校用于应用研究部分的“科学研究与试验发展经费支出”约为:\n        A. 95.6 亿元    B.137.0 亿元    C.196.4 亿元   D.1489。5 亿元\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [],
+    "verification_evidence": {
+      "stem_quote": "该年度我国高等学校用于应用研究部分的“科学研究与试验发展经费支出”约为:",
+      "selected_option_quotes": [
+        "137.0亿元"
+      ],
+      "conclusion": "故选B"
+    }
+  },
+  {
+    "question_id": "Q421c8c4f46f9b802d750",
+    "occurrence_id": "S0087_44",
+    "source_id": "S0087",
+    "original_number": null,
+    "question_text": "2016,2015,2014,( ),2010",
+    "question_type": "单选",
+    "options": {
+      "A": "2014",
+      "B": "2013",
+      "C": "2012",
+      "D": "2011"
+    },
+    "correct_answer": "C",
+    "explanation": "【解析】 将原数列左右分为两组,做差后为20-16=4、20-15=5、20-14=6、()、20-10=10,观察4、5、\n6、()、10,作差得1、1、(2)、(2),即20-12=8。因此原数列为2012。故正确答案为C。",
+    "source_explanation": "【解析】 将原数列左右分为两组,做差后为20-16=4、20-15=5、20-14=6、()、20-10=10,观察4、5、\n6、()、10,作差得1、1、(2)、(2),即20-12=8。因此原数列为2012。故正确答案为C。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/1-EPI综合能力题库----数字推理题精选300道详解.pdf",
+    "source_location": "page:1",
+    "source_offset": 44,
+    "answer_source": {
+      "source_id": "S0087",
+      "location": "page:1",
+      "raw_text": "答案:C"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "2016,2015,2014,( ),2010\nA.2014\nB.2013\nC.2012\nD.2011\n答案:C 解析:【解析】 将原数列左右分为两组,做差后为20-16=4、20-15=5、20-14=6、()、20-10=10,观察4、5、\n6、()、10,作差得1、1、(2)、(2),即20-12=8。因此原数列为2012。故正确答案为C。",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "C"
+    ]
+  },
+  {
+    "question_id": "Q8ea1d31cf6dfea1385ba",
+    "occurrence_id": "S0088_44",
+    "source_id": "S0088",
+    "original_number": null,
+    "question_text": "“红星”啤酒开展“7 个空瓶换1 瓶啤酒”的优惠促销活动。现在已知张先生在活动促销期间共喝掉347 瓶“红\n星”啤酒,问张先生最少用钱买了多少瓶啤酒?( )",
+    "question_type": "单选",
+    "options": {
+      "A": "296 瓶",
+      "B": "298 瓶",
+      "C": "300 瓶",
+      "D": "302 瓶"
+    },
+    "correct_answer": "B",
+    "explanation": "【解析】 方法一:由题意可知,7 空=1 瓶酒=1 空+1 酒,所以6 空=1 酒;所以1 瓶酒=1 空+1 酒\n=1/6 酒+1 酒=7/6 酒,现在喝掉347 瓶酒,所以至少买347×≈298(瓶),因此,本题答案为B 选项。方法二:\n代入排除法,题干问最少,将A 代入,根据空瓶换酒公式有:296÷(7-1)=49+,296+49=345<347,将B 代\n入有:298÷6=49+,此时:298+49=347,满足题干,因此选择B 选项。",
+    "source_explanation": "【解析】 方法一:由题意可知,7 空=1 瓶酒=1 空+1 酒,所以6 空=1 酒;所以1 瓶酒=1 空+1 酒\n=1/6 酒+1 酒=7/6 酒,现在喝掉347 瓶酒,所以至少买347×≈298(瓶),因此,本题答案为B 选项。方法二:\n代入排除法,题干问最少,将A 代入,根据空瓶换酒公式有:296÷(7-1)=49+,296+49=345<347,将B 代\n入有:298÷6=49+,此时:298+49=347,满足题干,因此选择B 选项。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/2-EPI综合能力题库----数学运算、应用题精选400道详解.pdf",
+    "source_location": "page:1",
+    "source_offset": 44,
+    "answer_source": {
+      "source_id": "S0088",
+      "location": "page:1",
+      "raw_text": "答案:B"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "“红星”啤酒开展“7 个空瓶换1 瓶啤酒”的优惠促销活动。现在已知张先生在活动促销期间共喝掉347 瓶“红\n星”啤酒,问张先生最少用钱买了多少瓶啤酒?( )\nA.296 瓶\nB.298 瓶\nC.300 瓶\nD.302 瓶\n答案:B 解析:【解析】 方法一:由题意可知,7 空=1 瓶酒=1 空+1 酒,所以6 空=1 酒;所以1 瓶酒=1 空+1 酒\n=1/6 酒+1 酒=7/6 酒,现在喝掉347 瓶酒,所以至少买347×≈298(瓶),因此,本题答案为B 选项。方法二:\n代入排除法,题干问最少,将A 代入,根据空瓶换酒公式有:296÷(7-1)=49+,296+49=345<347,将B 代\n入有:298÷6=49+,此时:298+49=347,满足题干,因此选择B 选项。",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "B"
+    ]
+  },
+  {
+    "question_id": "Qe360ecbb4078b58405f7",
+    "occurrence_id": "S0089_44",
+    "source_id": "S0089",
+    "original_number": null,
+    "question_text": "进行良好的时间管理,同样需要这些品质(2)把握好间隔和规律正是时间管理的内容(3)当鸡蛋越来越多,\n情况越来越糟的时候,你要有能力控制局面(4)进行时间管理,就好像抛鸡蛋(5)要做好抛鸡蛋的动作,需要耐\n心、毅力、练习和计划(6)你要不停地把手中的一只鸡蛋换成另一只,还要保持所有的鸡蛋都不落到地上将以上6\n个句子重新排序,语序正确的是( )",
+    "question_type": "单选",
+    "options": {
+      "A": "(2)(4)(3)(6)(5)(1)",
+      "B": "(5)(1)(6)(4)(3)(2)",
+      "C": "(2)(4)(5)(6)(1)(3)",
+      "D": "(4)(6)(5)(1)(3)(2)"
+    },
+    "correct_answer": "D",
+    "explanation": "【解析】 首先观察四个选项的分布,根据少数服从多数原则,初定(2)为首句,而观察四个选项的\n尾句可看出(2)同样是多数项,因此需要根据首尾句的特点来判断(2)适合做句首还是句尾。观察(2)“正是”\n属于结论性的表述,不适合做首句,排除AC 选项;对比(5)和(4),(4)将时间管理比喻为抛鸡蛋的话题,(5)\n则是对如何做好抛鸡蛋动作的具体描述,因此(4)应在(5)前。故初定选项为D。将D 项进行关联性验证,先由\n(4)引出时间管理像抛鸡蛋的话题,(6)对抛鸡蛋动作进行描述,(5)提出要做好抛鸡蛋这个动作需要具备三种品\n质,(1)指出良好的时间管理同样需要具备这三种品质,这是(3)中面对糟糕局面进行控制的能力,(2)进行总结。\n通过验证可知D 正确,因此正确答案为D 选项",
+    "source_explanation": "【解析】 首先观察四个选项的分布,根据少数服从多数原则,初定(2)为首句,而观察四个选项的\n尾句可看出(2)同样是多数项,因此需要根据首尾句的特点来判断(2)适合做句首还是句尾。观察(2)“正是”\n属于结论性的表述,不适合做首句,排除AC 选项;对比(5)和(4),(4)将时间管理比喻为抛鸡蛋的话题,(5)\n则是对如何做好抛鸡蛋动作的具体描述,因此(4)应在(5)前。故初定选项为D。将D 项进行关联性验证,先由\n(4)引出时间管理像抛鸡蛋的话题,(6)对抛鸡蛋动作进行描述,(5)提出要做好抛鸡蛋这个动作需要具备三种品\n质,(1)指出良好的时间管理同样需要具备这三种品质,这是(3)中面对糟糕局面进行控制的能力,(2)进行总结。\n通过验证可知D 正确,因此正确答案为D 选项",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/3-EPI综合能力题库----言语理解与表达试题精选350道详解.pdf",
+    "source_location": "page:1",
+    "source_offset": 44,
+    "answer_source": {
+      "source_id": "S0089",
+      "location": "page:1",
+      "raw_text": "答案:D"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "(1)进行良好的时间管理,同样需要这些品质(2)把握好间隔和规律正是时间管理的内容(3)当鸡蛋越来越多,\n情况越来越糟的时候,你要有能力控制局面(4)进行时间管理,就好像抛鸡蛋(5)要做好抛鸡蛋的动作,需要耐\n心、毅力、练习和计划(6)你要不停地把手中的一只鸡蛋换成另一只,还要保持所有的鸡蛋都不落到地上将以上6\n个句子重新排序,语序正确的是( )\nA.(2)(4)(3)(6)(5)(1)\nB.(5)(1)(6)(4)(3)(2)\nC.(2)(4)(5)(6)(1)(3)\nD.(4)(6)(5)(1)(3)(2)\n答案:D 解析:【解析】 首先观察四个选项的分布,根据少数服从多数原则,初定(2)为首句,而观察四个选项的\n尾句可看出(2)同样是多数项,因此需要根据首尾句的特点来判断(2)适合做句首还是句尾。观察(2)“正是”\n属于结论性的表述,不适合做首句,排除AC 选项;对比(5)和(4),(4)将时间管理比喻为抛鸡蛋的话题,(5)\n则是对如何做好抛鸡蛋动作的具体描述,因此(4)应在(5)前。故初定选项为D。将D 项进行关联性验证,先由\n(4)引出时间管理像抛鸡蛋的话题,(6)对抛鸡蛋动作进行描述,(5)提出要做好抛鸡蛋这个动作需要具备三种品\n质,(1)指出良好的时间管理同样需要具备这三种品质,这是(3)中面对糟糕局面进行控制的能力,(2)进行总结。\n通过验证可知D 正确,因此正确答案为D 选项",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "D"
+    ]
+  },
+  {
+    "question_id": "Q716df9577e8b043906e9",
+    "occurrence_id": "S0091_44",
+    "source_id": "S0091",
+    "original_number": null,
+    "question_text": "“E-mail 营销是指在用户事先许可的前提下,通过电子邮件的方式向目标用户传递有价值信息的一种网络营销手段”。\nE-mail 营销有三个基本要素:基于用户许可,通过电子邮件传递信息,信息对用户是有价值的。三个要素缺少一个,\n都不能称之为有效的E-mail 营销。根据上述定义,下列属于有效的E-mail 营销的一项是()。",
+    "question_type": "单选",
+    "options": {
+      "A": "小王2002 年成为某品牌产品的会员,入会期满一年后,小王决定退会,但他在网上进行退会操作没有成功,该产\n品还继续发来信息",
+      "B": "小李在某门户网站注册了免费邮箱,注册时注明愿意接收有关医疗保健和体育比赛方面的信息,使用邮箱后,该网\n站经常向他的邮箱发送包括医疗保健和商品折扣方面的信息",
+      "C": "小赵曾经给某厂商留下地址,希望对方免费邮寄相关资料,后来他收到一封电子邮件,没有发件人姓名,地址身份,\n标题是“产品目录”,他恐怕该邮件有病毒,没有打开就将其删除了",
+      "D": "小高收到一封邮件,标题为“免费赠卡,直接消费”,打开后,发现收件人一栏只有一个地址,但却不是自己的邮\n箱地址,他感到大惑不解"
+    },
+    "correct_answer": "B",
+    "explanation": "【解析】 A 项中小王决定退会,所以收到的信息对他没有价值,故A 项不符合定义;B 项具备三个基\n本要素,符合定义;C 项中不能确定“产品目录”是小赵所要的资料,就不能确定是否经过许可和有价值,故不选;\nD 项明显未经许可,不符合定义。",
+    "source_explanation": "【解析】 A 项中小王决定退会,所以收到的信息对他没有价值,故A 项不符合定义;B 项具备三个基\n本要素,符合定义;C 项中不能确定“产品目录”是小赵所要的资料,就不能确定是否经过许可和有价值,故不选;\nD 项明显未经许可,不符合定义。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料1.zip",
+    "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/5-EPI综合能力题库----逻辑推理题精选300道详解.pdf",
+    "source_location": "page:1",
+    "source_offset": 44,
+    "answer_source": {
+      "source_id": "S0091",
+      "location": "page:1",
+      "raw_text": "答案:B"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2027"
+    ],
+    "time_sensitive": false,
+    "raw_block": "“E-mail 营销是指在用户事先许可的前提下,通过电子邮件的方式向目标用户传递有价值信息的一种网络营销手段”。\nE-mail 营销有三个基本要素:基于用户许可,通过电子邮件传递信息,信息对用户是有价值的。三个要素缺少一个,\n都不能称之为有效的E-mail 营销。根据上述定义,下列属于有效的E-mail 营销的一项是()。\nA.小王2002 年成为某品牌产品的会员,入会期满一年后,小王决定退会,但他在网上进行退会操作没有成功,该产\n品还继续发来信息\nB.小李在某门户网站注册了免费邮箱,注册时注明愿意接收有关医疗保健和体育比赛方面的信息,使用邮箱后,该网\n站经常向他的邮箱发送包括医疗保健和商品折扣方面的信息\nC.小赵曾经给某厂商留下地址,希望对方免费邮寄相关资料,后来他收到一封电子邮件,没有发件人姓名,地址身份,\n标题是“产品目录”,他恐怕该邮件有病毒,没有打开就将其删除了\nD.小高收到一封邮件,标题为“免费赠卡,直接消费”,打开后,发现收件人一栏只有一个地址,但却不是自己的邮\n箱地址,他感到大惑不解\n答案:B 解析:【解析】 A 项中小王决定退会,所以收到的信息对他没有价值,故A 项不符合定义;B 项具备三个基\n本要素,符合定义;C 项中不能确定“产品目录”是小赵所要的资料,就不能确定是否经过许可和有价值,故不选;\nD 项明显未经许可,不符合定义。",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "B"
+    ]
+  },
+  {
+    "question_id": "Qa68312cf12454078967e",
+    "occurrence_id": "S0135_27",
+    "source_id": "S0135",
+    "original_number": "1",
+    "question_text": "“四个自信”,即坚定中国特色社会主义道路自信、理论自信、制度自信、()\n 自信。",
+    "question_type": "单选",
+    "options": {
+      "A": "作风",
+      "B": "文化",
+      "C": "政治",
+      "D": "思想"
+    },
+    "correct_answer": "B",
+    "explanation": "“四个自信”包括道路自信、理论自信、制度自信、文化自信。故本题答\n  案为B。",
+    "source_explanation": "“四个自信”包括道路自信、理论自信、制度自信、文化自信。故本题答\n  案为B。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料2_01.zip",
+    "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2025年中石油招聘考试及答案详解整理版.pdf",
+    "source_location": "page:1",
+    "source_offset": 27,
+    "answer_source": {
+      "source_id": "S0135",
+      "location": "page:1",
+      "raw_text": "答案B"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2025"
+    ],
+    "time_sensitive": false,
+    "raw_block": "  第1 题,共105 题,此题为单项选择题\n “四个自信”,即坚定中国特色社会主义道路自信、理论自信、制度自信、()\n 自信。\n  A、作风\n  B、文化\n  C、政治\n  D、思想\n  答案B\n  解析: “四个自信”包括道路自信、理论自信、制度自信、文化自信。故本题答\n  案为B。\n\n\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "B"
+    ]
+  },
+  {
+    "question_id": "Q2769fc3279c7f026557d",
+    "occurrence_id": "S0136_17710",
+    "source_id": "S0136",
+    "original_number": "1",
+    "question_text": "\"三老四严\"起源于这样件事件∶(  )",
+    "question_type": "单选",
+    "options": {
+      "A": "大庆油田钻井突发井喷事故",
+      "B": "在会战中大庆采油一厂中四队,一名学徒工由于操作失误,挤扁了刮蜡片,隐瞒不报",
+      "C": "钻井队队长王明国为了保护国家财产,维护油田尊严,与盗窃石油的不法分子殊死搏斗",
+      "D": "王进喜率领1205 钻井队和1202 钻井队克服重重困难,双双达到了年进尺10 万米的奇迹"
+    },
+    "correct_answer": "B",
+    "explanation": "略",
+    "source_explanation": "略",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料2_01.zip",
+    "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2026中国石油招聘春招笔试及答案解析_.pdf",
+    "source_location": "page:22",
+    "source_offset": 17710,
+    "answer_source": {
+      "source_id": "S0136",
+      "location": "page:22",
+      "raw_text": "参考答案:B"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2026"
+    ],
+    "time_sensitive": false,
+    "raw_block": "1.\"三老四严\"起源于这样件事件∶(  )\nA. 大庆油田钻井突发井喷事故\nB.在会战中大庆采油一厂中四队,一名学徒工由于操作失误,挤扁了刮蜡片,隐瞒不报\nC.钻井队队长王明国为了保护国家财产,维护油田尊严,与盗窃石油的不法分子殊死搏斗\nD.王进喜率领1205 钻井队和1202 钻井队克服重重困难,双双达到了年进尺10 万米的奇迹\n参考答案:B\n解析:略\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "B"
+    ]
+  },
+  {
+    "question_id": "Qcab89b2197568bb483cf",
+    "occurrence_id": "S0161_80584",
+    "source_id": "S0161",
+    "original_number": "252",
+    "question_text": "(多选)2026 年8 月16 日,第16 期《求是》杂志发表习近平的重要文章《提高防灾减灾救灾\n\n能力》。下列说法正确的是()。",
+    "question_type": "多选",
+    "options": {
+      "A": "要推动灾害治理向事前预防转型",
+      "B": "坚持源头管控,将安全韧性要求贯穿国土空间规划及各类建设规划之中",
+      "C": "强化工程治理,合理提高重要城市和灾害多发地区关键基础设施设防标准",
+      "D": "加强对高风险地段的重点防控,有效压降存量风险、遏制新增风险"
+    },
+    "correct_answer": "ABCD",
+    "explanation": "ABCD 项正确,文章指出,要推动灾害治理向\n\n事前预防转型。坚持源头管控,将安全韧性要求贯穿国土空间规划及各类建设规划之中,有效规避自然灾\n\n害风险。加强隐患排查,系统梳理、精准识别各类灾害风险。强化工程治理,合理提高重要城市和灾害多\n\n发地区关键基础设施设防标准,加紧补齐北方地区防洪排涝抗灾基础设施短板。加强对高风险地段的重点\n\n防控,有效压降存量风险、遏制新增风险。",
+    "source_explanation": "ABCD 项正确,文章指出,要推动灾害治理向\n\n事前预防转型。坚持源头管控,将安全韧性要求贯穿国土空间规划及各类建设规划之中,有效规避自然灾\n\n害风险。加强隐患排查,系统梳理、精准识别各类灾害风险。强化工程治理,合理提高重要城市和灾害多\n\n发地区关键基础设施设防标准,加紧补齐北方地区防洪排涝抗灾基础设施短板。加强对高风险地段的重点\n\n防控,有效压降存量风险、遏制新增风险。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料2_01.zip",
+    "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/考前时政押题320题（2025.10-2026.9）-更新到26年10月初.pdf",
+    "source_location": "page:63",
+    "source_offset": 80584,
+    "answer_source": {
+      "source_id": "S0161",
+      "location": "page:63",
+      "raw_text": "【答案】ABCD"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2025",
+      "2026"
+    ],
+    "time_sensitive": false,
+    "raw_block": "   252、(多选)2026 年8 月16 日,第16 期《求是》杂志发表习近平的重要文章《提高防灾减灾救灾\n\n能力》。下列说法正确的是()。\n\n  A.要推动灾害治理向事前预防转型\n\n  B.坚持源头管控,将安全韧性要求贯穿国土空间规划及各类建设规划之中\n\n  C.强化工程治理,合理提高重要城市和灾害多发地区关键基础设施设防标准\n\n  D.加强对高风险地段的重点防控,有效压降存量风险、遏制新增风险\n\n   【答案】ABCD。                    解析:ABCD 项正确,文章指出,要推动灾害治理向\n\n事前预防转型。坚持源头管控,将安全韧性要求贯穿国土空间规划及各类建设规划之中,有效规避自然灾\n\n害风险。加强隐患排查,系统梳理、精准识别各类灾害风险。强化工程治理,合理提高重要城市和灾害多\n\n发地区关键基础设施设防标准,加紧补齐北方地区防洪排涝抗灾基础设施短板。加强对高风险地段的重点\n\n防控,有效压降存量风险、遏制新增风险。\n\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "ABCD"
+    ]
+  },
+  {
+    "question_id": "Q4b0e0682788624b0c81e",
+    "occurrence_id": "S0164_73620",
+    "source_id": "S0164",
+    "original_number": "241",
+    "question_text": "(多选)2026 年8 月25 日,中办、国办印发《党政领导干部生态环境损害责任追究办法》。\n\n生态环境损害责任追究方式包括( )。",
+    "question_type": "多选",
+    "options": {
+      "A": "诫勉",
+      "B": "组织调整、组织处理",
+      "C": "引咎辞职",
+      "D": "党纪政务处分"
+    },
+    "correct_answer": "ABD",
+    "explanation": "追责方式分为三类,可单独也可合并使用:(1)谈话提醒、批评教育、责令检查、诫勉;(2)组织调整或者组织处理;(3)党纪政务处分三类。微信公众号:橙子考公资料站\n\n  【拓展】《办法》坚持终身追责,对生态环境损害,不论其是否调离、提拔或者退休,都要依规追究\n\n责任。聚焦干预环保执法、篡改监测数据、违规审批项目、督察整改不力等失职失责情形。",
+    "source_explanation": "追责方式分为三类,可单独也可合并使用:(1)谈话提醒、批评教育、责令检查、诫勉;(2)组织调整或者组织处理;(3)党纪政务处分三类。微信公众号:橙子考公资料站\n\n  【拓展】《办法》坚持终身追责,对生态环境损害,不论其是否调离、提拔或者退休,都要依规追究\n\n责任。聚焦干预环保执法、篡改监测数据、违规审批项目、督察整改不力等失职失责情形。",
+    "ai_explanation": null,
+    "source_archive": "中石油笔试通关资料2_01.zip",
+    "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/考前时政押题320题（2025.9-2026.8）-更新到26年9月初.pdf",
+    "source_location": "page:59",
+    "source_offset": 73620,
+    "answer_source": {
+      "source_id": "S0164",
+      "location": "page:59",
+      "raw_text": "【答案】ABD"
+    },
+    "confidence": 0.98,
+    "verification_status": "VERIFIED",
+    "verification_method": "automated_inline_label_and_option_integrity",
+    "answer_match_method": "explicit_answer_in_same_question_block",
+    "review_reasons": [],
+    "material_year_hints": [
+      "2025",
+      "2026"
+    ],
+    "time_sensitive": false,
+    "raw_block": "   241、(多选)2026 年8 月25 日,中办、国办印发《党政领导干部生态环境损害责任追究办法》。\n\n生态环境损害责任追究方式包括( )。\n\n   A.诫勉                      B.组织调整、组织处理\n\n  C.引咎辞职                     D.党纪政务处分\n\n  【答案】ABD。              解析:追责方式分为三类,可单独也可合并使用:(1)谈话提醒、批评教育、责令检查、诫勉;(2)组织调整或者组织处理;(3)党纪政务处分三类。微信公众号:橙子考公资料站\n\n  【拓展】《办法》坚持终身追责,对生态环境损害,不论其是否调离、提拔或者退休,都要依规追究\n\n责任。聚焦干预环保执法、篡改监测数据、违规审批项目、督察整改不力等失职失责情形。\n\n",
+    "source_methods": [
+      "native"
+    ],
+    "context_before": null,
+    "source_answer_variants": [
+      "ABD"
+    ]
+  }
+]

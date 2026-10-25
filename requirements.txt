@@ -1,0 +1,9 @@
+pymupdf==2.0
+python-docx
+rapidfuzz==3.14.6
+rapidocr_onnxruntime==1.4.4
+scikit-learn==1.9.1
+numpy
+Pillow
+joblib
+threadpoolctl

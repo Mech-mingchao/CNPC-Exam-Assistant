@@ -1,0 +1,27 @@
+{
+  "database_health": {
+    "integrity": "ok",
+    "total": 10663,
+    "verified": 2575,
+    "scope": "verified exact questions only; references and independent reasoning for the rest"
+  },
+  "exact_lookup": {
+    "decision": "DIRECT_ORIGINAL",
+    "elapsed_seconds_including_process_start": 0.1569999999992433
+  },
+  "reordered_lookup": {
+    "decision": "DIRECT_ORIGINAL",
+    "mapped_answer": [
+      "C"
+    ],
+    "elapsed_seconds_including_process_start": 0.15600000000085856
+  },
+  "changed_conditions": {
+    "decision": "REFERENCE_ONLY",
+    "direct_answer_withheld": true,
+    "elapsed_seconds_including_process_start": 2.2189999999991414
+  },
+  "state_restored": {
+    "active": false
+  }
+}

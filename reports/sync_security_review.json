@@ -1,0 +1,15 @@
+{
+  "credential_patterns_checked": [
+    "private_key",
+    "OpenAI key",
+    "GitHub token",
+    "AWS access key",
+    "Google API key",
+    "Authorization bearer"
+  ],
+  "high_confidence_findings": [],
+  "text_files_scanned": 1568,
+  "text_bytes_scanned": 214019078,
+  "excluded_file_count": 13,
+  "scope": "User-authorized private repository backup, not public redistribution. No Git internals or account login files exported. Public training-material contacts and original local paths remain as provenance; automated scanning is not proof that no possible sensitive content exists."
+}

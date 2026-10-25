@@ -1,0 +1,16 @@
+{
+  "archives": 4,
+  "files": 185,
+  "read_files": 180,
+  "failed_or_partial_files": 5,
+  "raw_questions": 16671,
+  "unique_questions": 10663,
+  "unique_with_original_answer": 7919,
+  "unique_with_source_explanation": 5455,
+  "verified_unique": 2575,
+  "unverified_unique": 8073,
+  "conflict_unique": 15,
+  "missing_answer_unique": 2744,
+  "ocr_units": 1296,
+  "sqlite_integrity": "ok"
+}

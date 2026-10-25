@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "checked_original_files": 1771,
+  "database": {
+    "integrity": [
+      "ok"
+    ],
+    "sqlite_questions": 10663,
+    "jsonl_questions": 10663,
+    "payload_mismatches": 0,
+    "database_sha256": "7555f2645e0b57e8296e1a47c1e5341517efcb0da3455d4fd161f71d096ecf15",
+    "jsonl_sha256": "009e63e42a82aecbbeed9acc5162f37c9eb2487e72fea78b32bc6b528d179298",
+    "complete_payload_sequence_sha256": "e44da6afa70da619788e3597813067d1d6a701bc9a1b481ad5e1d289157dc067",
+    "counts": {
+      "questions": 10663,
+      "UNVERIFIED": 8073,
+      "with_original_answer": 7919,
+      "with_original_explanation": 5455,
+      "VERIFIED": 2575,
+      "CONFLICT": 15
+    }
+  },
+  "errors": [],
+  "payload_mismatches": [],
+  "verification_scope": "byte-identical original files plus complete question/options/answer/explanation/source records; not independent proof of answer correctness"
+}

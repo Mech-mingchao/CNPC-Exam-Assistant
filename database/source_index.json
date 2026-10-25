@@ -1,0 +1,2255 @@
+{
+  "archives": [
+    {
+      "name": "中石油笔试通关资料1.zip",
+      "original_path": "E:\\三桶油考试资料\\【00】三桶油\\中石油笔试通关资料1.zip",
+      "sha256": "39c162904fa2f0489fbb33ec2832fffa2ae580da8f54a5c92eeaf3e1d965c120",
+      "entries": 133,
+      "file_count": 114
+    },
+    {
+      "name": "中石油笔试通关资料2_01.zip",
+      "original_path": "E:\\三桶油考试资料\\【00】三桶油\\中石油笔试通关资料2_01.zip",
+      "sha256": "b98266a507ca4e7a26a8af9f66035062d989228f36134922dffe34a90588edc7",
+      "entries": 65,
+      "file_count": 50
+    },
+    {
+      "name": "中石油笔试通关资料2_02.zip",
+      "original_path": "E:\\三桶油考试资料\\【00】三桶油\\中石油笔试通关资料2_02.zip",
+      "sha256": "a90d5c3d23cc9873abd947413ddd6a3b491f2277f6b6f5af0ff44f9bf28b59b9",
+      "entries": 18,
+      "file_count": 14
+    },
+    {
+      "name": "中石油笔试通关资料2_03.zip",
+      "original_path": "E:\\三桶油考试资料\\【00】三桶油\\中石油笔试通关资料2_03.zip",
+      "sha256": "260c8a758eca29a2e68a97a1c57ca49527579655468c8cf43ac840ae29365f11",
+      "entries": 12,
+      "file_count": 7
+    }
+  ],
+  "files": [
+    {
+      "source_id": "S0001",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/1.最新版【行测讲义】常识判断（共30页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\2027招聘考试 金牌讲义\\1.最新版【行测讲义】常识判断（共30页）.pdf",
+      "type": ".pdf",
+      "bytes": 899785,
+      "sha256": "d7c7c479c09ee8c968970757b0a83ec36f6d142a2de21b8eb03ba5d8a5af5c50"
+    },
+    {
+      "source_id": "S0002",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/2.最新版【行测讲义】数量关系.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\2027招聘考试 金牌讲义\\2.最新版【行测讲义】数量关系.pdf",
+      "type": ".pdf",
+      "bytes": 947585,
+      "sha256": "1e9d8da0e864391a0e5fa9e0c286829806be4648e0b65e7133be2aa92129fa29"
+    },
+    {
+      "source_id": "S0003",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/3.最新版【行测讲义】言语理解与表达（共231页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\2027招聘考试 金牌讲义\\3.最新版【行测讲义】言语理解与表达（共231页）.pdf",
+      "type": ".pdf",
+      "bytes": 4299327,
+      "sha256": "1fcaea355e751e414dfd32db6624b989a6e4b91af962d45dd95d17e629bf73dd"
+    },
+    {
+      "source_id": "S0004",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/4.最新版【行测讲义】判断推理（共63页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\2027招聘考试 金牌讲义\\4.最新版【行测讲义】判断推理（共63页）.pdf",
+      "type": ".pdf",
+      "bytes": 3696998,
+      "sha256": "5fad627b20919738366878a01f52ba7c64beec0115478a3a0d0bff76ab8c5e89"
+    },
+    {
+      "source_id": "S0005",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/2027招聘考试 金牌讲义/5.最新版【行测讲义】资料分析（共58页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\2027招聘考试 金牌讲义\\5.最新版【行测讲义】资料分析（共58页）.pdf",
+      "type": ".pdf",
+      "bytes": 3763669,
+      "sha256": "9e869a4a10b332dc57e3bdba9d7a6bd0be5ec97f78879e569d8990984b59e84b"
+    },
+    {
+      "source_id": "S0006",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/1-卡氏十六种人格测试/卡氏16种人格因素测验(可打印).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\1-卡氏十六种人格测试\\卡氏16种人格因素测验(可打印).doc",
+      "type": ".doc",
+      "bytes": 186880,
+      "sha256": "c58fc531ac085dfeba8ba0c0886027ab10befa825c9c553a4dc13bb5263a5c02"
+    },
+    {
+      "source_id": "S0007",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/1-卡氏十六种人格测试/卡氏十六种人格因素测验.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\1-卡氏十六种人格测试\\卡氏十六种人格因素测验.doc",
+      "type": ".doc",
+      "bytes": 79872,
+      "sha256": "44c46c9ea82d8a998fd46111f61699c6cd8dff8e571770e765d54e5da73e3af5"
+    },
+    {
+      "source_id": "S0008",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/1-卡氏十六种人格测试/卡氏十六种人格因素测验手册.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\1-卡氏十六种人格测试\\卡氏十六种人格因素测验手册.doc",
+      "type": ".doc",
+      "bytes": 64512,
+      "sha256": "b743bf99110ad3da823da6e671e8b6b9d1afa211e81bd2ad38b3916bd7cf627b"
+    },
+    {
+      "source_id": "S0009",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/1-卡氏十六种人格测试/卡特尔16种人格因素测验问卷.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\1-卡氏十六种人格测试\\卡特尔16种人格因素测验问卷.doc",
+      "type": ".doc",
+      "bytes": 752128,
+      "sha256": "e7a11e60c54accb6ee4758afa7d5226b1219f381fbce5d2847a08523d0033ab2"
+    },
+    {
+      "source_id": "S0010",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/1-卡氏十六种人格测试/科特尔16种人格因素分析测验及结果分析.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\1-卡氏十六种人格测试\\科特尔16种人格因素分析测验及结果分析.doc",
+      "type": ".doc",
+      "bytes": 196608,
+      "sha256": "b61fe50a4c9d3d39278370b275f9b5ecdfb40b2e8caa9decc7fbd7c92895e42a"
+    },
+    {
+      "source_id": "S0011",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/2-MBTI职业性格测试/MBTI测试性格类型介绍.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\2-MBTI职业性格测试\\MBTI测试性格类型介绍.doc",
+      "type": ".doc",
+      "bytes": 274944,
+      "sha256": "8dd4aa51f1bc191b0b4202aa84778295ab64ca03c31bb69a4b54b7e1ed7687aa"
+    },
+    {
+      "source_id": "S0012",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-1.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-1.doc",
+      "type": ".doc",
+      "bytes": 195584,
+      "sha256": "310c0398cf16e5250420209f90ea3c5a04f2cb747d1cdc39d615a1660aec74bd"
+    },
+    {
+      "source_id": "S0013",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-2.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-2.doc",
+      "type": ".doc",
+      "bytes": 84992,
+      "sha256": "12d09cd5019d722a7f26f8a75f57693051a814b8735b4c74015f5c11e63255a1"
+    },
+    {
+      "source_id": "S0014",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-3.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-3.doc",
+      "type": ".doc",
+      "bytes": 458240,
+      "sha256": "292cea46925820cdd893cc14355ba3943c93a45020a67e65ccb579d5f3ca0bca"
+    },
+    {
+      "source_id": "S0015",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-4(1).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-4(1).doc",
+      "type": ".doc",
+      "bytes": 28160,
+      "sha256": "400263ea3f5afda034cafa98a873abe46df8d40a8a3a105a9f148aea72b93b7c"
+    },
+    {
+      "source_id": "S0016",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/8. 个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-5.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\8. 个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-5.doc",
+      "type": ".doc",
+      "bytes": 446464,
+      "sha256": "70150aa176ac73ef453bc6e7f80e465c14d4c0ec9cec8c38e4e41787193f9d7d"
+    },
+    {
+      "source_id": "S0017",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘全真题库《行测》必过知识点总结/新版中石油考试判断推理+150道.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试判断推理+150道.pdf",
+      "type": ".pdf",
+      "bytes": 2821933,
+      "sha256": "36a0bbe3bb00fef31398dbbf6d3375d55d583411edac2fce3a39c5dadf81da11"
+    },
+    {
+      "source_id": "S0018",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘全真题库《行测》必过知识点总结/新版中石油考试常识判断+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试常识判断+150题.pdf",
+      "type": ".pdf",
+      "bytes": 11301163,
+      "sha256": "de973a32998c11e05b56265e7dac75d7d0a2632460a5deae8cb4f5cdcf75ea97"
+    },
+    {
+      "source_id": "S0019",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘全真题库《行测》必过知识点总结/新版中石油考试数量关系+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试数量关系+150题.pdf",
+      "type": ".pdf",
+      "bytes": 2069838,
+      "sha256": "b65f8d4912b3d6613860d4cef20f1759e709648c27ef34c601ea87237c330037"
+    },
+    {
+      "source_id": "S0020",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘全真题库《行测》必过知识点总结/新版中石油考试言语理解与表达+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试言语理解与表达+150题.pdf",
+      "type": ".pdf",
+      "bytes": 19794700,
+      "sha256": "f4097db91c853b6dbecd20301d64a49861aed5252fc37265cd6a9d8686299a8b"
+    },
+    {
+      "source_id": "S0021",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘全真题库《行测》必过知识点总结/新版中石油考试资料分析+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试资料分析+150题.pdf",
+      "type": ".pdf",
+      "bytes": 3544781,
+      "sha256": "322c0e51355652a40258a1d799b9a66ab3e8718dec9d6c5b80738bacb0565a73"
+    },
+    {
+      "source_id": "S0022",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试 金牌讲义/1.最新版【行测讲义】常识判断（共30页）.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试 金牌讲义\\1.最新版【行测讲义】常识判断（共30页）.doc",
+      "type": ".doc",
+      "bytes": 249856,
+      "sha256": "2139334cddb88f6e4a9b4a62030b70164964dac2ca44d37c45dd0e211ff16504"
+    },
+    {
+      "source_id": "S0023",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试 金牌讲义/2.最新版【行测讲义】数量关系.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试 金牌讲义\\2.最新版【行测讲义】数量关系.pdf",
+      "type": ".pdf",
+      "bytes": 838722,
+      "sha256": "b581b11c32faebf011500499a952fe0044661f872f4a27275fbdd3f48628bec7"
+    },
+    {
+      "source_id": "S0024",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试 金牌讲义/3.最新版【行测讲义】言语理解与表达（共231页）.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试 金牌讲义\\3.最新版【行测讲义】言语理解与表达（共231页）.doc",
+      "type": ".doc",
+      "bytes": 2265600,
+      "sha256": "043b7b26e5484e5e7d072e83d10a5709c2644b2c4e8c7a0bd4283cb804664e39"
+    },
+    {
+      "source_id": "S0025",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试 金牌讲义/4.最新版【行测讲义】判断推理（共63页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试 金牌讲义\\4.最新版【行测讲义】判断推理（共63页）.pdf",
+      "type": ".pdf",
+      "bytes": 3682428,
+      "sha256": "9485856093be3626565e8e9d201138124910b57b7122d55c95e70df798251f9e"
+    },
+    {
+      "source_id": "S0026",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试 金牌讲义/5.最新版【行测讲义】资料分析（共58页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试 金牌讲义\\5.最新版【行测讲义】资料分析（共58页）.pdf",
+      "type": ".pdf",
+      "bytes": 3754463,
+      "sha256": "ebecb343de674292bd0311a68bf249364bb1d4cb07d10bf14369282128f21ab9"
+    },
+    {
+      "source_id": "S0027",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (1).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (1).doc",
+      "type": ".doc",
+      "bytes": 539136,
+      "sha256": "35eeced591b47dc2b27c762d18c1334ac2b386ddc908f62ce98c0784ff84f58d"
+    },
+    {
+      "source_id": "S0028",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (10).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (10).doc",
+      "type": ".doc",
+      "bytes": 1220608,
+      "sha256": "7a7fb97a7676c334744681498026f2f36b9901f73f97d50c249d140c1d6902b6"
+    },
+    {
+      "source_id": "S0029",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (11).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (11).doc",
+      "type": ".doc",
+      "bytes": 324608,
+      "sha256": "82c8ad652b70fb26ce25283135c782b5ebe280b9b060442a31c7ce79f7f558ca"
+    },
+    {
+      "source_id": "S0030",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (12).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (12).doc",
+      "type": ".doc",
+      "bytes": 526848,
+      "sha256": "ff2728ab97e4d0a2da91952786dcfcbfab968c8c288a535d405dac3edec322d8"
+    },
+    {
+      "source_id": "S0031",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (13).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (13).doc",
+      "type": ".doc",
+      "bytes": 427520,
+      "sha256": "4d64dd6f6af37279fb195222570e95b1a12c840956604bd64a501c20d5d45552"
+    },
+    {
+      "source_id": "S0032",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (14).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (14).doc",
+      "type": ".doc",
+      "bytes": 537600,
+      "sha256": "3304ae09b287439a7267a58ea6c931b8d6ef24dcde957c21c51e0e6d3bb5a0de"
+    },
+    {
+      "source_id": "S0033",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (15).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (15).doc",
+      "type": ".doc",
+      "bytes": 2333184,
+      "sha256": "19ddb6a502f0f1ddf95c3d35d02432a48bc23ddda51e6c64c49a51410e3c1d16"
+    },
+    {
+      "source_id": "S0034",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (16).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (16).doc",
+      "type": ".doc",
+      "bytes": 492032,
+      "sha256": "31d67bdc849e7ebae23479e7b08d97992ddf47af55bda711b47254facb8122ad"
+    },
+    {
+      "source_id": "S0035",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (17).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (17).doc",
+      "type": ".doc",
+      "bytes": 298496,
+      "sha256": "8d584ddb488566ef4ae50da726f6ae793af9343f64399622d73b2143927c30f5"
+    },
+    {
+      "source_id": "S0036",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (18).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (18).doc",
+      "type": ".doc",
+      "bytes": 339968,
+      "sha256": "675ab6a9c4b234c4cb26b0c652f221f5e4ec3290a95ccb57065c786c012bd0ea"
+    },
+    {
+      "source_id": "S0037",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (19).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (19).doc",
+      "type": ".doc",
+      "bytes": 281600,
+      "sha256": "a645ad79e948697d74266cdce439af7f3dad226b9d63d07e358113adbc21f038"
+    },
+    {
+      "source_id": "S0038",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (2).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (2).doc",
+      "type": ".doc",
+      "bytes": 595456,
+      "sha256": "f27a531a042c6bedf5d5c7cd1485f420ff05d0fb1b4e4f2249e3a1237d6fe66b"
+    },
+    {
+      "source_id": "S0039",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (20).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (20).doc",
+      "type": ".doc",
+      "bytes": 343040,
+      "sha256": "889720cb7dff4587dfd2f74a7959419202ef542db6d12b4c836227945170a12f"
+    },
+    {
+      "source_id": "S0040",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (21).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (21).doc",
+      "type": ".doc",
+      "bytes": 628224,
+      "sha256": "d2c8ed5ae8754e2e20e6dc17f1ec9110eb8803f45689ad7b89e8e9678d5f0273"
+    },
+    {
+      "source_id": "S0041",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (22).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (22).doc",
+      "type": ".doc",
+      "bytes": 695296,
+      "sha256": "28c11aa13121ec0d077c73f9ed5f0440a9655a4077649ce6314186177ad8234c"
+    },
+    {
+      "source_id": "S0042",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (23).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (23).doc",
+      "type": ".doc",
+      "bytes": 570448,
+      "sha256": "9235f11b47a7b2460bbfd9229f79b5014644bad6a2cce68d2b492c2200a398a4"
+    },
+    {
+      "source_id": "S0043",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (24).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (24).doc",
+      "type": ".doc",
+      "bytes": 338944,
+      "sha256": "7446b7a63bfe70a22991564bcdaadeb0e672451b3b3056d39322a24b6cd869b0"
+    },
+    {
+      "source_id": "S0044",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (25).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (25).doc",
+      "type": ".doc",
+      "bytes": 542782,
+      "sha256": "fb66028c87d761a631d37e4783002ec7f0518b747d7bd67b89b1a0f1725fde04"
+    },
+    {
+      "source_id": "S0045",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (26).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (26).doc",
+      "type": ".doc",
+      "bytes": 339520,
+      "sha256": "ac0eef0c3bb88f6468cd5f963d1334ca13722e1c2b6c25b80ef6009bc8dd8859"
+    },
+    {
+      "source_id": "S0046",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (27).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (27).doc",
+      "type": ".doc",
+      "bytes": 367616,
+      "sha256": "5030a3c3211be71b9c9879fc1fbbcf8db9cb7c634a473b6ea681752ec7cf9a21"
+    },
+    {
+      "source_id": "S0047",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (28).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (28).doc",
+      "type": ".doc",
+      "bytes": 309344,
+      "sha256": "8e016bdcbe6f7205bbd56b340ef9c5f3c4ac13af1c183f82534ffd2cccb8e9c1"
+    },
+    {
+      "source_id": "S0048",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (29).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (29).doc",
+      "type": ".doc",
+      "bytes": 526336,
+      "sha256": "cf9b785a8992007ac440a6ea5f6762583274c8d00c8306a7f6401278fa6d61f6"
+    },
+    {
+      "source_id": "S0049",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (3).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (3).doc",
+      "type": ".doc",
+      "bytes": 724992,
+      "sha256": "c3a0574316074882b63a5ad03ff2bd58dfc5fd46045dbbc82c916193dbd4e757"
+    },
+    {
+      "source_id": "S0050",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (30).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (30).doc",
+      "type": ".doc",
+      "bytes": 538891,
+      "sha256": "b3fdef7f3d58bd266a266d8d68349c324942158aeb1c3fe5bebc2ec39f222d8b"
+    },
+    {
+      "source_id": "S0051",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (4).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (4).doc",
+      "type": ".doc",
+      "bytes": 242176,
+      "sha256": "511b12cfb48b7eed31de0401cc8ff6a419589e39a33344bdbbd557f1783f011a"
+    },
+    {
+      "source_id": "S0052",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (5).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (5).doc",
+      "type": ".doc",
+      "bytes": 521216,
+      "sha256": "ec975674ce3acab13f2bd307bdc23e6133b607e72a23f33e622a3a66ed926b9e"
+    },
+    {
+      "source_id": "S0053",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (6).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (6).doc",
+      "type": ".doc",
+      "bytes": 519680,
+      "sha256": "ccd35d2d2858d168cdf741b5015a007adc90a232033519118bbb7b5c43d350e3"
+    },
+    {
+      "source_id": "S0054",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (7).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (7).doc",
+      "type": ".doc",
+      "bytes": 1498112,
+      "sha256": "580f6e85fec84d12e21f2c2187ddf4b88324ca3cf36e88bf80c29a566e060188"
+    },
+    {
+      "source_id": "S0055",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (8).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (8).doc",
+      "type": ".doc",
+      "bytes": 723456,
+      "sha256": "27339c50105407ff3a1a0095d49dac175230efe4a732dd4d4765127ac4a8b1ef"
+    },
+    {
+      "source_id": "S0056",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/中石油招聘考试全真测试-名师密押试卷1/最新中石油《行测》模拟卷2.0/新版职业能力测验模拟卷  (9).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\中石油招聘考试全真测试-名师密押试卷1\\最新中石油《行测》模拟卷2.0\\新版职业能力测验模拟卷  (9).doc",
+      "type": ".doc",
+      "bytes": 436736,
+      "sha256": "fb2ff1ac9e5f77a080fc324e576a019cf551b95c56034cdea4bcf5e7548e2a43"
+    },
+    {
+      "source_id": "S0057",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (1).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (1).doc",
+      "type": ".doc",
+      "bytes": 539778,
+      "sha256": "ccfadc6855af2594a03ef8f0d51814d2a1236a84fbda3fbb0a9a2c3cf6346e84"
+    },
+    {
+      "source_id": "S0058",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (10).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (10).doc",
+      "type": ".doc",
+      "bytes": 1220608,
+      "sha256": "7a7fb97a7676c334744681498026f2f36b9901f73f97d50c249d140c1d6902b6"
+    },
+    {
+      "source_id": "S0059",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (11).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (11).doc",
+      "type": ".doc",
+      "bytes": 324608,
+      "sha256": "82c8ad652b70fb26ce25283135c782b5ebe280b9b060442a31c7ce79f7f558ca"
+    },
+    {
+      "source_id": "S0060",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (12).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (12).doc",
+      "type": ".doc",
+      "bytes": 526848,
+      "sha256": "ff2728ab97e4d0a2da91952786dcfcbfab968c8c288a535d405dac3edec322d8"
+    },
+    {
+      "source_id": "S0061",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (13).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (13).doc",
+      "type": ".doc",
+      "bytes": 427520,
+      "sha256": "4d64dd6f6af37279fb195222570e95b1a12c840956604bd64a501c20d5d45552"
+    },
+    {
+      "source_id": "S0062",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (14).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (14).doc",
+      "type": ".doc",
+      "bytes": 537600,
+      "sha256": "3304ae09b287439a7267a58ea6c931b8d6ef24dcde957c21c51e0e6d3bb5a0de"
+    },
+    {
+      "source_id": "S0063",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (15).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (15).doc",
+      "type": ".doc",
+      "bytes": 2317824,
+      "sha256": "82ab94ee3c6171a3759e1d4f4ac8031cacd7842a31e2aabcdd42756ba82d84be"
+    },
+    {
+      "source_id": "S0064",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (16).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (16).doc",
+      "type": ".doc",
+      "bytes": 495212,
+      "sha256": "c087bf51ae3fc9943d74d33df525e8d827f8dcc7121748cd3b16193c4538c676"
+    },
+    {
+      "source_id": "S0065",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (17).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (17).doc",
+      "type": ".doc",
+      "bytes": 298496,
+      "sha256": "8d584ddb488566ef4ae50da726f6ae793af9343f64399622d73b2143927c30f5"
+    },
+    {
+      "source_id": "S0066",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (18).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (18).doc",
+      "type": ".doc",
+      "bytes": 339968,
+      "sha256": "675ab6a9c4b234c4cb26b0c652f221f5e4ec3290a95ccb57065c786c012bd0ea"
+    },
+    {
+      "source_id": "S0067",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (19).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (19).doc",
+      "type": ".doc",
+      "bytes": 281600,
+      "sha256": "a645ad79e948697d74266cdce439af7f3dad226b9d63d07e358113adbc21f038"
+    },
+    {
+      "source_id": "S0068",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (2).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (2).doc",
+      "type": ".doc",
+      "bytes": 641070,
+      "sha256": "839d511b95106a82f227ec657ca918e466ba30c3b1b8ffd80df2b2aeddd78e54"
+    },
+    {
+      "source_id": "S0069",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (20).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (20).doc",
+      "type": ".doc",
+      "bytes": 343040,
+      "sha256": "889720cb7dff4587dfd2f74a7959419202ef542db6d12b4c836227945170a12f"
+    },
+    {
+      "source_id": "S0070",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (21).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (21).doc",
+      "type": ".doc",
+      "bytes": 628224,
+      "sha256": "d2c8ed5ae8754e2e20e6dc17f1ec9110eb8803f45689ad7b89e8e9678d5f0273"
+    },
+    {
+      "source_id": "S0071",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (22).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (22).doc",
+      "type": ".doc",
+      "bytes": 695296,
+      "sha256": "28c11aa13121ec0d077c73f9ed5f0440a9655a4077649ce6314186177ad8234c"
+    },
+    {
+      "source_id": "S0072",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (23).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (23).doc",
+      "type": ".doc",
+      "bytes": 570448,
+      "sha256": "9235f11b47a7b2460bbfd9229f79b5014644bad6a2cce68d2b492c2200a398a4"
+    },
+    {
+      "source_id": "S0073",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (24).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (24).doc",
+      "type": ".doc",
+      "bytes": 338944,
+      "sha256": "7446b7a63bfe70a22991564bcdaadeb0e672451b3b3056d39322a24b6cd869b0"
+    },
+    {
+      "source_id": "S0074",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (25).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (25).doc",
+      "type": ".doc",
+      "bytes": 542782,
+      "sha256": "fb66028c87d761a631d37e4783002ec7f0518b747d7bd67b89b1a0f1725fde04"
+    },
+    {
+      "source_id": "S0075",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (26).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (26).doc",
+      "type": ".doc",
+      "bytes": 339520,
+      "sha256": "ac0eef0c3bb88f6468cd5f963d1334ca13722e1c2b6c25b80ef6009bc8dd8859"
+    },
+    {
+      "source_id": "S0076",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (27).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (27).doc",
+      "type": ".doc",
+      "bytes": 367616,
+      "sha256": "5030a3c3211be71b9c9879fc1fbbcf8db9cb7c634a473b6ea681752ec7cf9a21"
+    },
+    {
+      "source_id": "S0077",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (28).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (28).doc",
+      "type": ".doc",
+      "bytes": 309344,
+      "sha256": "8e016bdcbe6f7205bbd56b340ef9c5f3c4ac13af1c183f82534ffd2cccb8e9c1"
+    },
+    {
+      "source_id": "S0078",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (29).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (29).doc",
+      "type": ".doc",
+      "bytes": 526336,
+      "sha256": "cf9b785a8992007ac440a6ea5f6762583274c8d00c8306a7f6401278fa6d61f6"
+    },
+    {
+      "source_id": "S0079",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (3).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (3).doc",
+      "type": ".doc",
+      "bytes": 708608,
+      "sha256": "b86cbe849576a4548a9629dc13a75bf2b5dde0a91a1498074e30aed85bd2563d"
+    },
+    {
+      "source_id": "S0080",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (30).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (30).doc",
+      "type": ".doc",
+      "bytes": 538891,
+      "sha256": "b3fdef7f3d58bd266a266d8d68349c324942158aeb1c3fe5bebc2ec39f222d8b"
+    },
+    {
+      "source_id": "S0081",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (4).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (4).doc",
+      "type": ".doc",
+      "bytes": 242176,
+      "sha256": "511b12cfb48b7eed31de0401cc8ff6a419589e39a33344bdbbd557f1783f011a"
+    },
+    {
+      "source_id": "S0082",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (5).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (5).doc",
+      "type": ".doc",
+      "bytes": 521216,
+      "sha256": "ec975674ce3acab13f2bd307bdc23e6133b607e72a23f33e622a3a66ed926b9e"
+    },
+    {
+      "source_id": "S0083",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (6).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (6).doc",
+      "type": ".doc",
+      "bytes": 519680,
+      "sha256": "ccd35d2d2858d168cdf741b5015a007adc90a232033519118bbb7b5c43d350e3"
+    },
+    {
+      "source_id": "S0084",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (7).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (7).doc",
+      "type": ".doc",
+      "bytes": 1498112,
+      "sha256": "580f6e85fec84d12e21f2c2187ddf4b88324ca3cf36e88bf80c29a566e060188"
+    },
+    {
+      "source_id": "S0085",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (8).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (8).doc",
+      "type": ".doc",
+      "bytes": 723456,
+      "sha256": "27339c50105407ff3a1a0095d49dac175230efe4a732dd4d4765127ac4a8b1ef"
+    },
+    {
+      "source_id": "S0086",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/6- 中石油招聘考试 金牌讲义等多个文件/笔试名师押题（30套）/新版中国石油招聘考试名师押题模拟卷  (9).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\6- 中石油招聘考试 金牌讲义等多个文件\\笔试名师押题（30套）\\新版中国石油招聘考试名师押题模拟卷  (9).doc",
+      "type": ".doc",
+      "bytes": 436736,
+      "sha256": "fb2ff1ac9e5f77a080fc324e576a019cf551b95c56034cdea4bcf5e7548e2a43"
+    },
+    {
+      "source_id": "S0087",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/1-EPI综合能力题库----数字推理题精选300道详解.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\1-EPI综合能力题库----数字推理题精选300道详解.pdf",
+      "type": ".pdf",
+      "bytes": 1832109,
+      "sha256": "001db8c4dc30337eec9b8cf6b057e28978fb0e592dca9d07fbabc3776201c7c2"
+    },
+    {
+      "source_id": "S0088",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/2-EPI综合能力题库----数学运算、应用题精选400道详解.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\2-EPI综合能力题库----数学运算、应用题精选400道详解.pdf",
+      "type": ".pdf",
+      "bytes": 3031159,
+      "sha256": "ad2076a9f78f3c9c2ff6609ddb3cfcd21c9214d68e5ea0193f96751d7e5ff55b"
+    },
+    {
+      "source_id": "S0089",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/3-EPI综合能力题库----言语理解与表达试题精选350道详解.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\3-EPI综合能力题库----言语理解与表达试题精选350道详解.pdf",
+      "type": ".pdf",
+      "bytes": 2729122,
+      "sha256": "c88a12dc0593e3d7299e3563754881e290fd1082dfb017ab97a17d4c627145ce"
+    },
+    {
+      "source_id": "S0090",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/4-EPI综合能力题库----图形推理习题精选300道详解.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\4-EPI综合能力题库----图形推理习题精选300道详解.pdf",
+      "type": ".pdf",
+      "bytes": 6194370,
+      "sha256": "e4624b2679bbcf132ead3ed2155c44f52e9262ed50cd4e9606c0559c491537df"
+    },
+    {
+      "source_id": "S0091",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/5-EPI综合能力题库----逻辑推理题精选300道详解.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\5-EPI综合能力题库----逻辑推理题精选300道详解.pdf",
+      "type": ".pdf",
+      "bytes": 2650679,
+      "sha256": "0121197e82bf80debaafdc518f2c0e38646a7b09869a8a33fbd0950405f525de"
+    },
+    {
+      "source_id": "S0092",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/6-EPI综合能力题库----资料分析题库+解析.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\6-EPI综合能力题库----资料分析题库+解析.pdf",
+      "type": ".pdf",
+      "bytes": 2621756,
+      "sha256": "1e93047b5b8f78517955bc2a32552fea4ffa2802735046340fa74eed7305c5d8"
+    },
+    {
+      "source_id": "S0093",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/7-2027【红宝石】EPI能力测试/7-EPI综合能力题库----常识题精选600道.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\7-2027【红宝石】EPI能力测试\\7-EPI综合能力题库----常识题精选600道.pdf",
+      "type": ".pdf",
+      "bytes": 3711914,
+      "sha256": "2a0d0e272be49f13acd695d27d970fe5814b9da32991b0b384ee1c5caaa4aedd"
+    },
+    {
+      "source_id": "S0094",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/1-卡氏十六种人格测试/卡氏16种人格因素测验(可打印).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\1-卡氏十六种人格测试\\卡氏16种人格因素测验(可打印).doc",
+      "type": ".doc",
+      "bytes": 186880,
+      "sha256": "c58fc531ac085dfeba8ba0c0886027ab10befa825c9c553a4dc13bb5263a5c02"
+    },
+    {
+      "source_id": "S0095",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/1-卡氏十六种人格测试/卡氏十六种人格因素测验.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\1-卡氏十六种人格测试\\卡氏十六种人格因素测验.doc",
+      "type": ".doc",
+      "bytes": 79872,
+      "sha256": "44c46c9ea82d8a998fd46111f61699c6cd8dff8e571770e765d54e5da73e3af5"
+    },
+    {
+      "source_id": "S0096",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/1-卡氏十六种人格测试/卡氏十六种人格因素测验手册.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\1-卡氏十六种人格测试\\卡氏十六种人格因素测验手册.doc",
+      "type": ".doc",
+      "bytes": 64512,
+      "sha256": "b743bf99110ad3da823da6e671e8b6b9d1afa211e81bd2ad38b3916bd7cf627b"
+    },
+    {
+      "source_id": "S0097",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/1-卡氏十六种人格测试/卡特尔16种人格因素测验问卷.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\1-卡氏十六种人格测试\\卡特尔16种人格因素测验问卷.doc",
+      "type": ".doc",
+      "bytes": 752128,
+      "sha256": "e7a11e60c54accb6ee4758afa7d5226b1219f381fbce5d2847a08523d0033ab2"
+    },
+    {
+      "source_id": "S0098",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/1-卡氏十六种人格测试/科特尔16种人格因素分析测验及结果分析.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\1-卡氏十六种人格测试\\科特尔16种人格因素分析测验及结果分析.doc",
+      "type": ".doc",
+      "bytes": 196608,
+      "sha256": "b61fe50a4c9d3d39278370b275f9b5ecdfb40b2e8caa9decc7fbd7c92895e42a"
+    },
+    {
+      "source_id": "S0099",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/2-MBTI职业性格测试/MBTI测试性格类型介绍.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\2-MBTI职业性格测试\\MBTI测试性格类型介绍.doc",
+      "type": ".doc",
+      "bytes": 274944,
+      "sha256": "8dd4aa51f1bc191b0b4202aa84778295ab64ca03c31bb69a4b54b7e1ed7687aa"
+    },
+    {
+      "source_id": "S0100",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-1.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-1.doc",
+      "type": ".doc",
+      "bytes": 195584,
+      "sha256": "310c0398cf16e5250420209f90ea3c5a04f2cb747d1cdc39d615a1660aec74bd"
+    },
+    {
+      "source_id": "S0101",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-2.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-2.doc",
+      "type": ".doc",
+      "bytes": 84992,
+      "sha256": "12d09cd5019d722a7f26f8a75f57693051a814b8735b4c74015f5c11e63255a1"
+    },
+    {
+      "source_id": "S0102",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-3.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-3.doc",
+      "type": ".doc",
+      "bytes": 458240,
+      "sha256": "292cea46925820cdd893cc14355ba3943c93a45020a67e65ccb579d5f3ca0bca"
+    },
+    {
+      "source_id": "S0103",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-4(1).doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-4(1).doc",
+      "type": ".doc",
+      "bytes": 28160,
+      "sha256": "400263ea3f5afda034cafa98a873abe46df8d40a8a3a105a9f148aea72b93b7c"
+    },
+    {
+      "source_id": "S0104",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/8-个性测评/2-MBTI职业性格测试/MBTI职业性格测试题-5.doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\8-个性测评\\2-MBTI职业性格测试\\MBTI职业性格测试题-5.doc",
+      "type": ".doc",
+      "bytes": 446464,
+      "sha256": "70150aa176ac73ef453bc6e7f80e465c14d4c0ec9cec8c38e4e41787193f9d7d"
+    },
+    {
+      "source_id": "S0105",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/中石油企业文化最新版.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\中石油企业文化最新版.pdf",
+      "type": ".pdf",
+      "bytes": 374511,
+      "sha256": "529f6f13b8ecba147765c65830548d4ccdf9dc03effad8cb3683b3cbd0ad3a85"
+    },
+    {
+      "source_id": "S0106",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/中石油企业文化测试题50题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\中石油企业文化测试题50题.pdf",
+      "type": ".pdf",
+      "bytes": 393886,
+      "sha256": "2da101214518cb1663aff3fcb6e3070d93bc76b5e747231e9e52b332447d7e38"
+    },
+    {
+      "source_id": "S0107",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/1、行测技巧（了解做题技巧，多做题，已排版可直接打印）/1.1【行测】-言语理解及表达-解题技巧（28页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\1、行测技巧（了解做题技巧，多做题，已排版可直接打印）\\1.1【行测】-言语理解及表达-解题技巧（28页）.pdf",
+      "type": ".pdf",
+      "bytes": 628711,
+      "sha256": "09b919dbab15c557b7a38e2734178716ed916cbea3a0a901cedcdcb909de027a"
+    },
+    {
+      "source_id": "S0108",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/1、行测技巧（了解做题技巧，多做题，已排版可直接打印）/1.2【行测】-数量关系-解题技巧（27页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\1、行测技巧（了解做题技巧，多做题，已排版可直接打印）\\1.2【行测】-数量关系-解题技巧（27页）.pdf",
+      "type": ".pdf",
+      "bytes": 645774,
+      "sha256": "da019040a0adcb05a3b3c17b1c6670bfd85c2cc4685f13ef6337d771307cf1ff"
+    },
+    {
+      "source_id": "S0109",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/1、行测技巧（了解做题技巧，多做题，已排版可直接打印）/1.3【行测】-判断推理-解题技巧（23页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\1、行测技巧（了解做题技巧，多做题，已排版可直接打印）\\1.3【行测】-判断推理-解题技巧（23页）.pdf",
+      "type": ".pdf",
+      "bytes": 1049568,
+      "sha256": "ef33c19d9d232a73f614214c4b59588931a8078cc80d65a9c34f2414efb1cd84"
+    },
+    {
+      "source_id": "S0110",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/1、行测技巧（了解做题技巧，多做题，已排版可直接打印）/1.4【行测】-资料分析-解题技巧（17页）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\1、行测技巧（了解做题技巧，多做题，已排版可直接打印）\\1.4【行测】-资料分析-解题技巧（17页）.pdf",
+      "type": ".pdf",
+      "bytes": 886770,
+      "sha256": "0404cde528a6bccc9644eebe03af9104227d5a76cebed500077a4e9f341d5659"
+    },
+    {
+      "source_id": "S0111",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/2、行测专用题库（多做题，训练做题速度）/行测题库及答案详解一.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\2、行测专用题库（多做题，训练做题速度）\\行测题库及答案详解一.pdf",
+      "type": ".pdf",
+      "bytes": 4427383,
+      "sha256": "ff71ecd87a3ba5eac7786541f4687dc454c11f9dbe15fe9467a4abceceec0545"
+    },
+    {
+      "source_id": "S0112",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/2、行测专用题库（多做题，训练做题速度）/行测题库及答案详解二.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\2、行测专用题库（多做题，训练做题速度）\\行测题库及答案详解二.pdf",
+      "type": ".pdf",
+      "bytes": 1227099,
+      "sha256": "36feee73e4bc5e673155e79427157ad9297a40c25851c152fe82c511bed3873d"
+    },
+    {
+      "source_id": "S0113",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/3、行测知识模拟测试题/行测知识模拟测试题（一） .doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\3、行测知识模拟测试题\\行测知识模拟测试题（一） .doc",
+      "type": ".doc",
+      "bytes": 182272,
+      "sha256": "cace233af6384ded26dfaf7559541aa352714777a99b5757882f499e887c7e50"
+    },
+    {
+      "source_id": "S0114",
+      "source_archive": "中石油笔试通关资料1.zip",
+      "archive_chain": [
+        "中石油笔试通关资料1.zip"
+      ],
+      "source_file": "中石油笔试通关资料1/冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）/3、行测知识模拟测试题/行测知识模拟测试题（二） .doc",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料1\\中石油笔试通关资料1\\冲刺模拟专项（掌握解题技巧，多做题，已排版可直接打印）\\3、行测知识模拟测试题\\行测知识模拟测试题（二） .doc",
+      "type": ".doc",
+      "bytes": 225603,
+      "sha256": "ef4509fa2a88409d1d469194680c5d393390a96a6bbc92968ad6b0e7a96b74b7"
+    },
+    {
+      "source_id": "S0115",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/1-思想素质部分/价值观知识点.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\1-思想素质部分\\价值观知识点.pdf",
+      "type": ".pdf",
+      "bytes": 168035,
+      "sha256": "016fb035ac74ba141e58bfd58cc92c38444697e61e17224adc0bb4a339560502"
+    },
+    {
+      "source_id": "S0116",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/1-思想素质部分/意志品质知识点.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\1-思想素质部分\\意志品质知识点.pdf",
+      "type": ".pdf",
+      "bytes": 150591,
+      "sha256": "99355ee41ec441a37008cdcb9d587b627d4b1d2bca3e261d78c4d66843e2fa9b"
+    },
+    {
+      "source_id": "S0117",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/1-思想素质部分/责任感知识点.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\1-思想素质部分\\责任感知识点.pdf",
+      "type": ".pdf",
+      "bytes": 14142,
+      "sha256": "95ecd127aadde89b6e005aaa774e009ba5d3547d8fbff5277cd5a95c7e2df811"
+    },
+    {
+      "source_id": "S0118",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/2- 中石油招聘全真题库《行测》必过知识点总结/新版中石油考试判断推理+150道.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\2- 中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试判断推理+150道.pdf",
+      "type": ".pdf",
+      "bytes": 2821933,
+      "sha256": "36a0bbe3bb00fef31398dbbf6d3375d55d583411edac2fce3a39c5dadf81da11"
+    },
+    {
+      "source_id": "S0119",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/2- 中石油招聘全真题库《行测》必过知识点总结/新版中石油考试常识判断+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\2- 中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试常识判断+150题.pdf",
+      "type": ".pdf",
+      "bytes": 11301163,
+      "sha256": "de973a32998c11e05b56265e7dac75d7d0a2632460a5deae8cb4f5cdcf75ea97"
+    },
+    {
+      "source_id": "S0120",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/2- 中石油招聘全真题库《行测》必过知识点总结/新版中石油考试数量关系+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\2- 中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试数量关系+150题.pdf",
+      "type": ".pdf",
+      "bytes": 2069838,
+      "sha256": "b65f8d4912b3d6613860d4cef20f1759e709648c27ef34c601ea87237c330037"
+    },
+    {
+      "source_id": "S0121",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/2- 中石油招聘全真题库《行测》必过知识点总结/新版中石油考试言语理解与表达+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\2- 中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试言语理解与表达+150题.pdf",
+      "type": ".pdf",
+      "bytes": 19794700,
+      "sha256": "f4097db91c853b6dbecd20301d64a49861aed5252fc37265cd6a9d8686299a8b"
+    },
+    {
+      "source_id": "S0122",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/2- 中石油招聘全真题库《行测》必过知识点总结/新版中石油考试资料分析+150题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\2- 中石油招聘全真题库《行测》必过知识点总结\\新版中石油考试资料分析+150题.pdf",
+      "type": ".pdf",
+      "bytes": 3544781,
+      "sha256": "322c0e51355652a40258a1d799b9a66ab3e8718dec9d6c5b80738bacb0565a73"
+    },
+    {
+      "source_id": "S0123",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/中石油企业文化手册.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\中石油企业文化手册.pdf",
+      "type": ".pdf",
+      "bytes": 2885378,
+      "sha256": "29560d10254b2f5aa1fc26f7a57ec07e967d07b5931f02f569d9a8fc323df2ef"
+    },
+    {
+      "source_id": "S0124",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/0-2014中石油笔试试题真题及答案解析（完整版-）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\0-2014中石油笔试试题真题及答案解析（完整版-）.pdf",
+      "type": ".pdf",
+      "bytes": 698814,
+      "sha256": "b34107d6a74e464126a74f6b27a7dd264f539a376f652e02c942898c97844f70"
+    },
+    {
+      "source_id": "S0125",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2015年中石油招聘考试真题及答案详解整理版.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2015年中石油招聘考试真题及答案详解整理版.pdf",
+      "type": ".pdf",
+      "bytes": 2220189,
+      "sha256": "7ffd3a2610820b98a96adb89360c13936674333ec46d4862f64d97b3fd3b0e53"
+    },
+    {
+      "source_id": "S0126",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2016年中石油招聘考试真题及答案详解老师精心整理版.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2016年中石油招聘考试真题及答案详解老师精心整理版.pdf",
+      "type": ".pdf",
+      "bytes": 1614381,
+      "sha256": "5ff2433d5b51f95d80bf97348da79f23b58bee95da01902430d3a2cbb0a9486e"
+    },
+    {
+      "source_id": "S0127",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2017年中国石油招聘考试真题答案详解重点整理.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2017年中国石油招聘考试真题答案详解重点整理.pdf",
+      "type": ".pdf",
+      "bytes": 1513478,
+      "sha256": "f249fa23f1fe2136aeb99e11e44a7d39ef7b55fbf9d87171f3a6eea1835eaf11"
+    },
+    {
+      "source_id": "S0128",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2018年中国石油招聘考试真题及答案详解精心整理.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2018年中国石油招聘考试真题及答案详解精心整理.pdf",
+      "type": ".pdf",
+      "bytes": 2600327,
+      "sha256": "f5a9d1d5282129c3d851ed139810843a25a9e9c7a74f92841093ed5193a12f57"
+    },
+    {
+      "source_id": "S0129",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2019年中石油招聘考试真题及答案详解老师精心整理版.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2019年中石油招聘考试真题及答案详解老师精心整理版.pdf",
+      "type": ".pdf",
+      "bytes": 2354219,
+      "sha256": "d1a6beabfb414fc086e8d38f7330f5b7e884097018c1cee6aafb54413fd60b05"
+    },
+    {
+      "source_id": "S0130",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2020年中石油招聘考试及答案详解老师精心整理版.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2020年中石油招聘考试及答案详解老师精心整理版.pdf",
+      "type": ".pdf",
+      "bytes": 1328409,
+      "sha256": "76849a412c17f3bd9ec324ff8fd1132fdde5d0b2108e4a8b5c4a92275a9e3a77"
+    },
+    {
+      "source_id": "S0131",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2021年中石油招聘考试及答案详解精心整理针对性.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2021年中石油招聘考试及答案详解精心整理针对性.pdf",
+      "type": ".pdf",
+      "bytes": 2296203,
+      "sha256": "002b92e2a047a3fd13e4f808fe0d223728406def796ca9a8d8473415d9ea66a7"
+    },
+    {
+      "source_id": "S0132",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2022年中石油招聘考试及答案详解老师精心整理版_.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2022年中石油招聘考试及答案详解老师精心整理版_.pdf",
+      "type": ".pdf",
+      "bytes": 1657810,
+      "sha256": "b00cd9bbffd55464f5a9145fdf3ab8bd34f256e5d130c16f6cac60f84ef14f69"
+    },
+    {
+      "source_id": "S0133",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2023年中石油招聘考试及答案详解老师精心整理版_.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2023年中石油招聘考试及答案详解老师精心整理版_.pdf",
+      "type": ".pdf",
+      "bytes": 4515474,
+      "sha256": "349432094b46c414a84a01f7f08abd94fa07221e0f62c06731e4b9b2126bceff"
+    },
+    {
+      "source_id": "S0134",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2024中国石油校招笔试及参考答案.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2024中国石油校招笔试及参考答案.pdf",
+      "type": ".pdf",
+      "bytes": 1875849,
+      "sha256": "3ea086bf85b5c2c62abb31f518790208b439f78969a790c594f96d44c689d573"
+    },
+    {
+      "source_id": "S0135",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2025年中石油招聘考试及答案详解整理版.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2025年中石油招聘考试及答案详解整理版.pdf",
+      "type": ".pdf",
+      "bytes": 606552,
+      "sha256": "a344c7a84a682fa243777cd24b3c6ebb4644593ec9f05ba930a2edddf9f08e29"
+    },
+    {
+      "source_id": "S0136",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/3-【重要！】14年-26年历年招聘笔试题/真题/2026中国石油招聘春招笔试及答案解析_.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\3-【重要！】14年-26年历年招聘笔试题\\真题\\2026中国石油招聘春招笔试及答案解析_.pdf",
+      "type": ".pdf",
+      "bytes": 10856608,
+      "sha256": "f8231b2cb3c2de08c64911dc87ff01ead6316e7713eaa7e96ce36b7b01fbe3a7"
+    },
+    {
+      "source_id": "S0137",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/4-【考前模拟】2027模拟笔试试题和答案解析3套/招聘考试最新全真模拟笔试试题（EPI综合能力测试卷）和答案解析（一）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\4-【考前模拟】2027模拟笔试试题和答案解析3套\\招聘考试最新全真模拟笔试试题（EPI综合能力测试卷）和答案解析（一）.pdf",
+      "type": ".pdf",
+      "bytes": 1071120,
+      "sha256": "fe1d29bd83ca531b5eecc80371769a7d0e07bfadbe126b001af119ab6c297042"
+    },
+    {
+      "source_id": "S0138",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/4-【考前模拟】2027模拟笔试试题和答案解析3套/招聘考试最新全真模拟笔试试题（EPI综合能力测试卷）和答案解析（三）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\4-【考前模拟】2027模拟笔试试题和答案解析3套\\招聘考试最新全真模拟笔试试题（EPI综合能力测试卷）和答案解析（三）.pdf",
+      "type": ".pdf",
+      "bytes": 1067655,
+      "sha256": "462e6c1517063fc2751900790b020eaaf9cc31ae2363ea29fe57b488017f008f"
+    },
+    {
+      "source_id": "S0139",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/4-【考前模拟】2027模拟笔试试题和答案解析3套/招聘考试最新全真模拟笔试试题（EPI综合能力测试卷）和答案解析（二）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\4-【考前模拟】2027模拟笔试试题和答案解析3套\\招聘考试最新全真模拟笔试试题（EPI综合能力测试卷）和答案解析（二）.pdf",
+      "type": ".pdf",
+      "bytes": 1212668,
+      "sha256": "912a35050c8c8540f17ac090a03d480448da8f2acd5c1e6b59d9bbcecd55c4ec"
+    },
+    {
+      "source_id": "S0140",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2025年12月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2025年12月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 11156590,
+      "sha256": "76d18f4c7ba3c0593cfc6c750d19be7ddfa0e1c10142bfd47a8b9c48d8382dc3"
+    },
+    {
+      "source_id": "S0141",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年1月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年1月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 8904799,
+      "sha256": "d71b5070bfdc2162c3d6b401741122c35c985cd60dd119fe21ac40c23d9e4d4e"
+    },
+    {
+      "source_id": "S0142",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年2月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年2月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 8031566,
+      "sha256": "0e17e8a3547bef9700829687fd711b0261861bb65257fd11bf79350774d46f5c"
+    },
+    {
+      "source_id": "S0143",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年3月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年3月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 7188323,
+      "sha256": "6a68befc823059e88c4de937ed084fb88293bc83d53b42965fc29de60ea6ad00"
+    },
+    {
+      "source_id": "S0144",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年4月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年4月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 11530095,
+      "sha256": "c6f970588be49fdbf4a94326d26e9ac1ec9c62688d71049bf7075861ad8f17a0"
+    },
+    {
+      "source_id": "S0145",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年5月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年5月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 5766486,
+      "sha256": "ccdb3d2fad0dd36d94a9bad5e63008ebf25e181203e0d5c20a2c6223dff15619"
+    },
+    {
+      "source_id": "S0146",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年6月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年6月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 10704450,
+      "sha256": "33ac0757170215ae29ea10889cfec13232617671980301fc656de3fccf10003f"
+    },
+    {
+      "source_id": "S0147",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年7月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年7月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 13737881,
+      "sha256": "c79ad62cea324e19c2c33e0b8ab439e06b5cce470ddedfb55ec3c76f7083afbb"
+    },
+    {
+      "source_id": "S0148",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年8月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年8月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 11856177,
+      "sha256": "302470b6bd53f4e2bbd7ed74c791c50f775125d8d590b2d52984bd7997328063"
+    },
+    {
+      "source_id": "S0149",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政月报/【划重点】2026年9月时事政治考点汇总.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政月报\\【划重点】2026年9月时事政治考点汇总.pdf",
+      "type": ".pdf",
+      "bytes": 11446692,
+      "sha256": "0b08eac309fb14c216fb77bf41880ea8dcf0235c28a0954b9696ab4f478858ae"
+    },
+    {
+      "source_id": "S0150",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2025年12月时事政治模拟题及答案（143题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2025年12月时事政治模拟题及答案（143题）.pdf",
+      "type": ".pdf",
+      "bytes": 10994219,
+      "sha256": "7cfc8b4d5c9414be15e09022a1e2f5bacec7825fbcca1daaf4ae80b0f98f83a8"
+    },
+    {
+      "source_id": "S0151",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年1月时事政治模拟题及答案（128题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年1月时事政治模拟题及答案（128题）.pdf",
+      "type": ".pdf",
+      "bytes": 8259439,
+      "sha256": "005d45257ddb23b35353f2cfd66d875384ad66af01b14e3255b0938c171edd18"
+    },
+    {
+      "source_id": "S0152",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年2月时事政治模拟题及答案（90题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年2月时事政治模拟题及答案（90题）.pdf",
+      "type": ".pdf",
+      "bytes": 7068998,
+      "sha256": "0b4431608f19a0dd57b09ad1249e3907c56548b93c7e67a8ff90cde7e883f3d8"
+    },
+    {
+      "source_id": "S0153",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年3月时事政治模拟题及答案（145题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年3月时事政治模拟题及答案（145题）.pdf",
+      "type": ".pdf",
+      "bytes": 7435038,
+      "sha256": "00f32a395c3bdbc0e1eb5b158fc819d9c2170bfccb94c7e5fbe264b376383aef"
+    },
+    {
+      "source_id": "S0154",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年4月时事政治模拟题及答案（137题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年4月时事政治模拟题及答案（137题）.pdf",
+      "type": ".pdf",
+      "bytes": 11262587,
+      "sha256": "98343db198bb9c5c26255761cffd7e0e35966ada445dab737de6b5e9e337d3ee"
+    },
+    {
+      "source_id": "S0155",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年5月时事政治模拟题及答案（127题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年5月时事政治模拟题及答案（127题）.pdf",
+      "type": ".pdf",
+      "bytes": 6364069,
+      "sha256": "d622e6cf358f3a8f397a9d0e9b761b267ffff54b5fdcae7cbc94fd0e456c62d3"
+    },
+    {
+      "source_id": "S0156",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年6月时事政治模拟题及答案（134题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年6月时事政治模拟题及答案（134题）.pdf",
+      "type": ".pdf",
+      "bytes": 11348771,
+      "sha256": "b1cc65a6371d6dedf442cbb1b56864e5ae86d19420748794dda9c92e8c47cf02"
+    },
+    {
+      "source_id": "S0157",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年7月时事政治模拟题及答案（151题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年7月时事政治模拟题及答案（151题）.pdf",
+      "type": ".pdf",
+      "bytes": 13213900,
+      "sha256": "667ba90f0ead1352a6f3550cc05d637ae52c01a12ae3a810ab61becd0242e718"
+    },
+    {
+      "source_id": "S0158",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年8月时事政治模拟题及答案（145题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年8月时事政治模拟题及答案（145题）.pdf",
+      "type": ".pdf",
+      "bytes": 10997079,
+      "sha256": "c67be5db5cdfd7f65a1839f197549940c3fcba36a59c3f0d2527c4f8f3337a8a"
+    },
+    {
+      "source_id": "S0159",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/2026年时政模拟题/2026年9月时事政治模拟题及答案（142题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\2026年时政模拟题\\2026年9月时事政治模拟题及答案（142题）.pdf",
+      "type": ".pdf",
+      "bytes": 12720958,
+      "sha256": "ca930ca046bc858153d9f0f890f5dba2c0ac765b60d2993b93ace2cdc64fedca"
+    },
+    {
+      "source_id": "S0160",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/时政考前冲刺320题（更新至26年6月版）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\时政考前320题\\时政考前冲刺320题（更新至26年6月版）.pdf",
+      "type": ".pdf",
+      "bytes": 16554006,
+      "sha256": "7d341c478008feff6f33911ea4326d60802c3aac4a354aaee931d03f17e602e3"
+    },
+    {
+      "source_id": "S0161",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/考前时政押题320题（2025.10-2026.9）-更新到26年10月初.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\时政考前320题\\考前时政押题320题（2025.10-2026.9）-更新到26年10月初.pdf",
+      "type": ".pdf",
+      "bytes": 21099726,
+      "sha256": "ab26456f884fdb85082a56b83b9bc9ac04c45cf51809e59c559343566c356c76"
+    },
+    {
+      "source_id": "S0162",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/考前时政押题320题（2025.7-2026.6）-更新到26年7月初.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\时政考前320题\\考前时政押题320题（2025.7-2026.6）-更新到26年7月初.pdf",
+      "type": ".pdf",
+      "bytes": 30518988,
+      "sha256": "e998fa08a748e86a0c5442a766aaae6d74782337d560b332ddf1d354696793f3"
+    },
+    {
+      "source_id": "S0163",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/考前时政押题320题（2025.8-2026.7）-更新到26年8月初.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\时政考前320题\\考前时政押题320题（2025.8-2026.7）-更新到26年8月初.pdf",
+      "type": ".pdf",
+      "bytes": 28771652,
+      "sha256": "57f64cac4e674671bcfb472924c7f530c636dc7f350051d4e40fdea53aaf838d"
+    },
+    {
+      "source_id": "S0164",
+      "source_archive": "中石油笔试通关资料2_01.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_01.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【1】2026年时政/时政考前320题/考前时政押题320题（2025.9-2026.8）-更新到26年9月初.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_01\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【1】2026年时政\\时政考前320题\\考前时政押题320题（2025.9-2026.8）-更新到26年9月初.pdf",
+      "type": ".pdf",
+      "bytes": 21177881,
+      "sha256": "2e9ba9b2879e857d81c0516900211b93c169ec4e022cf113accfa9e7478c3c88"
+    },
+    {
+      "source_id": "S0165",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【32】二十届四中全会及十五五规划相关/中共中央关于制定国民经济和社会发展第十五个五年规划的建议（全文+划重点+260题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【32】二十届四中全会及十五五规划相关\\中共中央关于制定国民经济和社会发展第十五个五年规划的建议（全文+划重点+260题）.pdf",
+      "type": ".pdf",
+      "bytes": 103730948,
+      "sha256": "c5c3fc0490439089a93990912eaf0a460e71a828968f35f0fa2f1fb138858e2a"
+    },
+    {
+      "source_id": "S0166",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【32】二十届四中全会及十五五规划相关/二十大报告（全文+划重点）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【32】二十届四中全会及十五五规划相关\\二十大报告（全文+划重点）.pdf",
+      "type": ".pdf",
+      "bytes": 20244065,
+      "sha256": "726382b7ecf5bde76901b76dee6293cada4cf9760c36cf0116196209ffa1c7f8"
+    },
+    {
+      "source_id": "S0167",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【32】二十届四中全会及十五五规划相关/二十大试题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【32】二十届四中全会及十五五规划相关\\二十大试题.pdf",
+      "type": ".pdf",
+      "bytes": 13780029,
+      "sha256": "c3dd83dab0043b8dadd7d96c0969646253aaaae2289214ece3d41356e2826483"
+    },
+    {
+      "source_id": "S0168",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【32】二十届四中全会及十五五规划相关/二十届四中全会（考点+划重点+30题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【32】二十届四中全会及十五五规划相关\\二十届四中全会（考点+划重点+30题）.pdf",
+      "type": ".pdf",
+      "bytes": 22859690,
+      "sha256": "61cc5237b30d58dfcff9de6fa0e7d106723d6962dd87b87b0e977e7ef25966df"
+    },
+    {
+      "source_id": "S0169",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【32】二十届四中全会及十五五规划相关/党的二十届四中全会公告、“十五五规划”划线重点及押题预测200题.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【32】二十届四中全会及十五五规划相关\\党的二十届四中全会公告、“十五五规划”划线重点及押题预测200题.pdf",
+      "type": ".pdf",
+      "bytes": 194579025,
+      "sha256": "f5b2eef632764bf7c876407853d7dba794cb784ab44ae1aa10f1b646932820c9"
+    },
+    {
+      "source_id": "S0170",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【32】二十届四中全会及十五五规划相关/图文好评送社区网课（小红书@懒洋洋11店铺）（截图时，该文件夹不要漏出）/图文好评送社区网课。小红书@懒洋洋11店铺.docx",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【32】二十届四中全会及十五五规划相关\\图文好评送社区网课（小红书@懒洋洋11店铺）（截图时，该文件夹不要漏出）\\图文好评送社区网课。小红书@懒洋洋11店铺.docx",
+      "type": ".docx",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_id": "S0171",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【3】2026年最新政治理论相关考前考点预测/2026年最新政治理论相关考前考点预测.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【3】2026年最新政治理论相关考前考点预测\\2026年最新政治理论相关考前考点预测.pdf",
+      "type": ".pdf",
+      "bytes": 10864741,
+      "sha256": "efee19cfb4fe37672ac611d505c363d5d7642e7118b2520c680a326c7e0caf2b"
+    },
+    {
+      "source_id": "S0172",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/【4】2026年政治理论核心考点白皮书/2026年政治理论核心考点白皮书.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\【4】2026年政治理论核心考点白皮书\\2026年政治理论核心考点白皮书.pdf",
+      "type": ".pdf",
+      "bytes": 31220215,
+      "sha256": "a381880201cd7ff75414746a5e72c8502a1b98c3e769e1e19f0add9d9d2caf0e"
+    },
+    {
+      "source_id": "S0173",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/二十大报告中的关键词.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\二十大报告中的关键词.pdf",
+      "type": ".pdf",
+      "bytes": 6422300,
+      "sha256": "879163e367582d102b8a434dac88b86ceac5a9c445bbcc4260218ed1c489bcc0"
+    },
+    {
+      "source_id": "S0174",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/二十大报告思维导图.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\二十大报告思维导图.pdf",
+      "type": ".pdf",
+      "bytes": 1838389,
+      "sha256": "45f52269b677618ff58c42832239e25170332484faa73d7843f1071c5e237da5"
+    },
+    {
+      "source_id": "S0175",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/二十大报告（全文+划重点）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\二十大报告（全文+划重点）.pdf",
+      "type": ".pdf",
+      "bytes": 20243202,
+      "sha256": "3b84ba04189d44885fe6dbbae2dec69668215ead8696700489875d7a9fe68925"
+    },
+    {
+      "source_id": "S0176",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/二十大试题（240题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\二十大试题（240题）.pdf",
+      "type": ".pdf",
+      "bytes": 13531826,
+      "sha256": "847618ec3c7905744938e2a167ae6f68d18d2f8665493c2c2d9dcd24203c6f98"
+    },
+    {
+      "source_id": "S0177",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/各地各考试中党的二十大相关试题汇总（50题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\各地各考试中党的二十大相关试题汇总（50题）.pdf",
+      "type": ".pdf",
+      "bytes": 15346366,
+      "sha256": "0698f9ab5ab6e21e9bb53af97a830357d8bf1b7c5a6732e549929cc05e06ab0f"
+    },
+    {
+      "source_id": "S0178",
+      "source_archive": "中石油笔试通关资料2_02.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_02.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/各考试中党的二十大相关试题汇总（三）（130题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_02\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\各考试中党的二十大相关试题汇总（三）（130题）.pdf",
+      "type": ".pdf",
+      "bytes": 28626611,
+      "sha256": "c1fde71068b8102f877807ccaca634161f4fa6ecd07abba9365ac1251f6fd5a3"
+    },
+    {
+      "source_id": "S0179",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/各考试中党的二十大相关试题汇总（二）（66题）.pdf",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\各考试中党的二十大相关试题汇总（二）（66题）.pdf",
+      "type": ".pdf",
+      "bytes": 16404247,
+      "sha256": "efd716f4fd8e0b7b46c8dd56d0dcabd0e7a69334f7a81b2253088ecb122f90af"
+    },
+    {
+      "source_id": "S0180",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/二十大相关/图文好评送社区网课（小红书@懒洋洋11店铺）（截图时，该文件夹不要漏出）/图文好评送社区网课。小红书@懒洋洋11店铺.docx",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\二十大相关\\图文好评送社区网课（小红书@懒洋洋11店铺）（截图时，该文件夹不要漏出）\\图文好评送社区网课。小红书@懒洋洋11店铺.docx",
+      "type": ".docx",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_id": "S0181",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/图文好评送社区笔试网课+面试资料（羊村赐福的店铺）/图文好评送社区网课与面试资料。小红书@懒洋洋11店铺.docx",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\图文好评送社区笔试网课+面试资料（羊村赐福的店铺）\\图文好评送社区网课与面试资料。小红书@懒洋洋11店铺.docx",
+      "type": ".docx",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_id": "S0182",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/【00】每月热点/图文好评送社区网课（小红书@懒洋洋11店铺）（截图时，该文件夹不要漏出）/图文好评送社区网课。小红书@懒洋洋11店铺.docx",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\【00】每月热点\\图文好评送社区网课（小红书@懒洋洋11店铺）（截图时，该文件夹不要漏出）\\图文好评送社区网课。小红书@懒洋洋11店铺.docx",
+      "type": ".docx",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_id": "S0183",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/图文好评送社区笔试网课+面试资料（懒洋洋11店铺）/图文好评送社区网课与面试资料。小红书@懒洋洋11店铺.docx",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\图文好评送社区笔试网课+面试资料（懒洋洋11店铺）\\图文好评送社区网课与面试资料。小红书@懒洋洋11店铺.docx",
+      "type": ".docx",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source_id": "S0184",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/【0】26每月热点及练习题（持续更新）/转存上限解决办法.png",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\【0】26每月热点及练习题（持续更新）\\转存上限解决办法.png",
+      "type": ".png",
+      "bytes": 333940,
+      "sha256": "e84554edc19a2d1158f018a658f1740282454f8f0b9faf2b52794e84d72aeb25"
+    },
+    {
+      "source_id": "S0185",
+      "source_archive": "中石油笔试通关资料2_03.zip",
+      "archive_chain": [
+        "中石油笔试通关资料2_03.zip"
+      ],
+      "source_file": "中石油笔试通关资料2/【0】26每月热点及练习题（持续更新）/转存上限解决办法.png",
+      "path": "C:\\Users\\Mingc\\Documents\\Codex\\2026-10-24\\jie\\outputs\\CNPC_Exam_Assistant\\extracted\\中石油笔试通关资料2_03\\中石油笔试通关资料2\\【0】26每月热点及练习题（持续更新）\\转存上限解决办法.png",
+      "type": ".png",
+      "bytes": 333940,
+      "sha256": "e84554edc19a2d1158f018a658f1740282454f8f0b9faf2b52794e84d72aeb25"
+    }
+  ],
+  "errors": []
+}

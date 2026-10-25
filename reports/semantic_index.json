@@ -1,0 +1,6 @@
+{
+  "method": "character TF-IDF + LSA; approximate semantic reference only",
+  "questions": 10663,
+  "features": 35000,
+  "dimensions": 64
+}
